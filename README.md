@@ -1,5 +1,8 @@
-# Diffusion-model
-A Tensorflow implementation of Diffusion model using horseshoe dataset. The purpose of this project is to generate new horseshoe. Please refer to [model.py](Diffusion-model/model.py) for more information.
+# Image generation with diffusion models
+A Tensorflow implementation of Diffusion model using horseshoe dataset. The purpose of this project is to generate new horseshoe. 
+- Please refer to [Forward-noising.py](Diffusion-model/Forward-noising.py) for more information in the forward noising processus.
+- Please refer to [Backward-denoising.py](Diffusion-model/Backward-denoising.py) for more information in the backward noising processus.
+- Please refer to [U-Net.py](Diffusion-model/U-Net.py) for more information in the U-Net model.
 
 ## Noise visualization
 Adding noise to an image : Forward noising
@@ -17,3 +20,8 @@ Backward denoising
 <img width="322" alt="2022-04-09_122409" src="https://user-images.githubusercontent.com/98736513/229782535-b1cde1a3-e5a1-400b-be73-0e0d574add04.gif">
 <img width="322" alt="2022-04-09_122409" src="https://user-images.githubusercontent.com/98736513/229782868-a7cb0d79-d4b4-4313-a889-853649b1a411.gif">
 </p>
+
+
+
+#### References
+I work with this article : https://medium.com/@vedantjumle/image-generation-with-diffusion-models-using-keras-and-tensorflow-9f60aae72ac
