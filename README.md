@@ -15,7 +15,7 @@ Backward denoising
 
 
 ## Horseshoe Generation 
-<p float="left">
+<p align="center">
 <img width="250" alt="2022-04-09_122409" src="https://user-images.githubusercontent.com/98736513/229776537-0a3b8490-34f5-47d3-982d-cff0acd7c738.gif">
 <img width="250" alt="2022-04-09_122409" src="https://user-images.githubusercontent.com/98736513/229782535-b1cde1a3-e5a1-400b-be73-0e0d574add04.gif">
 <img width="250" alt="2022-04-09_122409" src="https://user-images.githubusercontent.com/98736513/229782868-a7cb0d79-d4b4-4313-a889-853649b1a411.gif">
