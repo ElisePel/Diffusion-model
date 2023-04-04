@@ -1,10 +1,14 @@
 # Diffusion-model
-A Tensorflow implementation of Diffusion model using horseshoe dataset. The purpose of this project is to generate new horseshoe.
+A Tensorflow implementation of Diffusion model using horseshoe dataset. The purpose of this project is to generate new horseshoe. Please refer to [model.py](Diffusion-model/model.py) for more information.
 
 ## Noise visualization
-Adding noise to an image
+Adding noise to an image : Forward noising
 
 ![image](https://user-images.githubusercontent.com/98736513/229776242-b4aeb7c0-72be-4d5d-9204-738e6ce94a5e.png)
+
+## Denosing visualiaztion
+Backward denoising
+![image](https://user-images.githubusercontent.com/98736513/229785108-c5148a6f-d9f3-495c-ab84-63f023eb6a4a.png)
 
 
 ## Horseshoe Generation 
