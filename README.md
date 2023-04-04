@@ -9,12 +9,13 @@ Adding noise to an image : Forward noising
 
 ![image](https://user-images.githubusercontent.com/98736513/229776242-b4aeb7c0-72be-4d5d-9204-738e6ce94a5e.png)
 
-## Denosing visualiaztion
+## Denosing visualization
 Backward denoising
 ![image](https://user-images.githubusercontent.com/98736513/229785108-c5148a6f-d9f3-495c-ab84-63f023eb6a4a.png)
 
 
 ## Horseshoe Generation 
+Random image creation and denoising steps
 <p align="center">
 <img width="250" alt="2022-04-09_122409" src="https://user-images.githubusercontent.com/98736513/229776537-0a3b8490-34f5-47d3-982d-cff0acd7c738.gif">
 <img width="250" alt="2022-04-09_122409" src="https://user-images.githubusercontent.com/98736513/229782535-b1cde1a3-e5a1-400b-be73-0e0d574add04.gif">
