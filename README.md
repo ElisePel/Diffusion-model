@@ -3,7 +3,7 @@ A Tensorflow implementation of Diffusion model using horseshoe dataset. The purp
 - Please refer to [Forward-noising.py](Forward-noising.py) for more information in the forward noising processus.
 - Please refer to [Backward-denoising.py](Diffusion-model/Backward-denoising.py) for more information in the backward noising processus.
 - Please refer to [U-Net.py](Diffusion-model/U-Net.py) for more information in the U-Net model.
-- Please refer to [Denoising-algo.py](Diffusion-model/Denoising-algo.py) for more information in the U-Net model.
+- Please refer to [DDPM-inference-algorithm.py](Diffusion-model/DDPM-inference-algorithm.py) for more information in the U-Net model.
 
 # Tables
 - [Visualization](#visualization)
